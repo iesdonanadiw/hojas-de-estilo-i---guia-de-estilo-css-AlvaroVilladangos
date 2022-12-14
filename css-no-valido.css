@@ -18,20 +18,24 @@
  font: 100%/1.6 palatino, georgia, serif;
  padding: 2em 1em 1em 0;
  }
- .img {margin: 0px;
- padding: 1 1 0px;
- font-size: 0.8em;
- color: #eebbcc;}
+ .img {
+    margin: 0px;
+    padding: 0px 1 1 0px;
+    font-size: 0.8em;
+    color: #eebbcc;
+  }
 
+  hola {
 
- background: fuchsia;
- border: 1px solid;
- -moz-border-radius: 4px;
- -webkit-border-radius: 4px;
- border-radius: 4px;
- color: black;
- text-align: center;
- text-indent: 2em;
+    background: fuchsia;
+    border: 1px solid;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    color: black;
+    text-align: center;
+    text-indent: 2em;
+  }
 
    h1 {
      background: #fff;
